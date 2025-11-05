@@ -50,19 +50,16 @@ function iniciarEdicion() {
     return;
   }
 
-  // Rellenar el formulario
   document.getElementById('nombre').value = empleado.nombre;
   document.getElementById('puesto').value = empleado.puesto;
   document.getElementById('salario').value = empleado.salario;
   document.getElementById('empresaId').value = empleado.empresaId;
 
-  // Manejar el envío del formulario
   const form = document.getElementById('formEditarEmpleado');
   if (form) {
     form.addEventListener('submit', e => {
       e.preventDefault();
 
-      // Actualizar los valores
       empleado.nombre = document.getElementById('nombre').value;
       empleado.puesto = document.getElementById('puesto').value;
       empleado.salario = parseFloat(document.getElementById('salario').value);
