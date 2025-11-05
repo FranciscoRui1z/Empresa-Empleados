@@ -10,5 +10,127 @@
         "nombre": "Innovatech",
         "direccion": "5678 StartUp Street",
         "telefono": "555-5678"
-    }
+    },
+    {
+    "id": 3,
+    "nombre": "SoftNova",
+    "direccion": "7890 Cloud Avenue",
+    "telefono": "555-7890"
+  },
+  {
+    "id": 4,
+    "nombre": "GreenTech",
+    "direccion": "1357 Eco Park",
+    "telefono": "555-1357"
+  },
+  {
+    "id": 5,
+    "nombre": "CyberWorks",
+    "direccion": "2468 Digital Drive",
+    "telefono": "555-2468"
+  },
+  {
+    "id": 6,
+    "nombre": "NextGen Solutions",
+    "direccion": "3690 Future Blvd",
+    "telefono": "555-3690"
+  },
+  {
+    "id": 7,
+    "nombre": "DataSphere",
+    "direccion": "1470 Analytics Way",
+    "telefono": "555-1470"
+  },
+  {
+    "id": 8,
+    "nombre": "BluePixel",
+    "direccion": "2580 Design Street",
+    "telefono": "555-2580"
+  },
+  {
+    "id": 9,
+    "nombre": "QuantumLeap",
+    "direccion": "3210 Innovation Circle",
+    "telefono": "555-3210"
+  },
+  {
+    "id": 10,
+    "nombre": "CloudBridge",
+    "direccion": "6540 Server Lane",
+    "telefono": "555-6540"
+  },
+  {
+    "id": 11,
+    "nombre": "SmartEdge",
+    "direccion": "9870 AI Avenue",
+    "telefono": "555-9870"
+  },
+  {
+    "id": 12,
+    "nombre": "BrightPath",
+    "direccion": "1122 Strategy Road",
+    "telefono": "555-1122"
+  },
+  {
+    "id": 13,
+    "nombre": "CodeCraft",
+    "direccion": "3344 Dev Street",
+    "telefono": "555-3344"
+  },
+  {
+    "id": 14,
+    "nombre": "Visionary Labs",
+    "direccion": "5566 Research Blvd",
+    "telefono": "555-5566"
+  },
+  {
+    "id": 15,
+    "nombre": "EcoLogic",
+    "direccion": "7788 Sustainability Way",
+    "telefono": "555-7788"
+  },
+  {
+    "id": 16,
+    "nombre": "TechNest",
+    "direccion": "9900 Startup Row",
+    "telefono": "555-9900"
+  },
+  {
+    "id": 17,
+    "nombre": "PixelForge",
+    "direccion": "1010 Creative Court",
+    "telefono": "555-1010"
+  },
+  {
+    "id": 18,
+    "nombre": "NeuroNet",
+    "direccion": "2020 Neural Drive",
+    "telefono": "555-2020"
+  },
+  {
+    "id": 19,
+    "nombre": "SolarByte",
+    "direccion": "3030 Energy Lane",
+    "telefono": "555-3030"
+  },
+  {
+    "id": 20,
+    "nombre": "LogicFlow",
+    "direccion": "4040 Automation Blvd",
+    "telefono": "555-4040"
+  },
+  {
+    "id": 21,
+    "nombre": "MetaCore",
+    "direccion": "5050 Meta Street",
+    "telefono": "555-5050"
+  },
+  {
+    "id": 22,
+    "nombre": "CloudNova",
+    "direccion": "6060 Hybrid Road",
+    "telefono": "555-6060"
+  }
+
+
 ]

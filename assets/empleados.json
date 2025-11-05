@@ -12,5 +12,147 @@
         "puesto": "Gerente",
         "salario": 70000,
         "empresaId": 2
-    }
+    },
+    {
+    "id": 3,
+    "nombre": "Carlos García",
+    "puesto": "Analista",
+    "salario": 48000,
+    "empresaId": 1
+  },
+  {
+    "id": 4,
+    "nombre": "Laura Martínez",
+    "puesto": "Diseñadora UX",
+    "salario": 52000,
+    "empresaId": 2
+  },
+  {
+    "id": 5,
+    "nombre": "Pedro Sánchez",
+    "puesto": "QA Tester",
+    "salario": 45000,
+    "empresaId": 1
+  },
+  {
+    "id": 6,
+    "nombre": "Ana Torres",
+    "puesto": "Product Manager",
+    "salario": 68000,
+    "empresaId": 2
+  },
+  {
+    "id": 7,
+    "nombre": "Luis Ramírez",
+    "puesto": "DevOps",
+    "salario": 60000,
+    "empresaId": 1
+  },
+  {
+    "id": 8,
+    "nombre": "Sofía Jiménez",
+    "puesto": "Marketing",
+    "salario": 47000,
+    "empresaId": 2
+  },
+  {
+    "id": 9,
+    "nombre": "Miguel Ángel",
+    "puesto": "Soporte Técnico",
+    "salario": 42000,
+    "empresaId": 1
+  },
+  {
+    "id": 10,
+    "nombre": "Isabel Moreno",
+    "puesto": "Recursos Humanos",
+    "salario": 53000,
+    "empresaId": 2
+  },
+  {
+    "id": 11,
+    "nombre": "Javier Ruiz",
+    "puesto": "Backend Developer",
+    "salario": 58000,
+    "empresaId": 1
+  },
+  {
+    "id": 12,
+    "nombre": "Patricia Delgado",
+    "puesto": "Frontend Developer",
+    "salario": 56000,
+    "empresaId": 2
+  },
+  {
+    "id": 13,
+    "nombre": "Diego Navarro",
+    "puesto": "Administrador de Sistemas",
+    "salario": 61000,
+    "empresaId": 1
+  },
+  {
+    "id": 14,
+    "nombre": "Lucía Romero",
+    "puesto": "Diseñadora Gráfica",
+    "salario": 49000,
+    "empresaId": 2
+  },
+  {
+    "id": 15,
+    "nombre": "Andrés Herrera",
+    "puesto": "Consultor",
+    "salario": 65000,
+    "empresaId": 1
+  },
+  {
+    "id": 16,
+    "nombre": "Carmen Vega",
+    "puesto": "Especialista SEO",
+    "salario": 51000,
+    "empresaId": 2
+  },
+  {
+    "id": 17,
+    "nombre": "Fernando Castro",
+    "puesto": "Arquitecto de Software",
+    "salario": 72000,
+    "empresaId": 1
+  },
+  {
+    "id": 18,
+    "nombre": "Beatriz León",
+    "puesto": "Community Manager",
+    "salario": 46000,
+    "empresaId": 2
+  },
+  {
+    "id": 19,
+    "nombre": "Raúl Domínguez",
+    "puesto": "Ingeniero de Datos",
+    "salario": 64000,
+    "empresaId": 1
+  },
+  {
+    "id": 20,
+    "nombre": "Natalia Rivas",
+    "puesto": "Psicóloga Organizacional",
+    "salario": 55000,
+    "empresaId": 2
+  },
+  {
+    "id": 21,
+    "nombre": "Héctor Molina",
+    "puesto": "Especialista en Seguridad",
+    "salario": 63000,
+    "empresaId": 1
+  },
+  {
+    "id": 22,
+    "nombre": "Verónica Salas",
+    "puesto": "Asistente Administrativo",
+    "salario": 40000,
+    "empresaId": 2
+  }
+
+
 ]
