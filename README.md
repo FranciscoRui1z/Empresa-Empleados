@@ -1,1 +1,1 @@
-Añado de poco en poco las cosas, ahora mismo está la estructura inicial.
+Modificado todo, para cumplir los criterios pedidos.
